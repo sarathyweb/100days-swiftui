@@ -1,4 +1,4 @@
-# Day 00 of SwiftUI - How to become an IOS developer 
+# Day 00 of 100 Days of SwiftUI - How to become an IOS developer 
 
 7 things...
 1. Core skills 
